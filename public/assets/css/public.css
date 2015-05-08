@@ -1,0 +1,8 @@
+<style type="text/css">
+#Note_Pressdropdown {width:240px; height:84px; border:2px inset #ccc; overflow:auto;}
+#Note_Pressdropdown a {text-align:left; font:9pt/10pt arial,verdana,sans-serif; padding-left:2px; margin:0; white-space:nowrap;}
+#Note_Pressdropdown a.menu:link {text-decoration:none; display:block; background-color:#fff; color:#000;}
+#Note_Pressdropdown a.menu:visited {text-decoration:none; display:block; background-color:#fff; color:#000;}
+#Note_Pressdropdown a.menu:hover {text-decoration:none; display:block; background-color:#000; color:#fff;}
+#Note_Pressdropdown a.menu:active {text-decoration:none; display:block; background-color:#000; color:#fff;}
+</style>

@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-05 23:38-0500\n"
+"PO-Revision-Date: 2015-05-05 23:55-0600\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: admin/class-Note_Press-admin.php:190
+msgid "Note Press Settings"
+msgstr "Note Press Ajustes"
+
+#: admin/class-Note_Press-admin.php:191 public/Note_Pressmenu.php:24
+msgid "Note Press"
+msgstr "Note Press"
+
+#: admin/class-Note_Press-admin.php:217
+msgid "Settings"
+msgstr "Ajustes"
+
+#: public/Note_Pressmenu.php:25
+msgid "For more information and instructions please visit our website at: "
+msgstr "Para obtener más información e instrucciones por favor visite nuestro sitio web en :"
+
+#: public/Note_Pressmenu.php:43
+msgid "note"
+msgstr "nota"
+
+#: public/Note_Pressmenu.php:44
+msgid "notes"
+msgstr "notas"
+
+#: public/Note_Pressmenu.php:66
+msgid "View"
+msgstr "Ver"
+
+#: public/Note_Pressmenu.php:67
+msgid "Edit"
+msgstr "Editar"
+
+#: public/Note_Pressmenu.php:68
+msgid "Are you sure you want to delete this note?"
+msgstr "¿Seguro que quieres eliminar esta nota?"
+
+#: public/Note_Pressmenu.php:68 public/Note_Pressmenu.php:77
+msgid "Delete"
+msgstr "Borrar"
+
+#: public/Note_Pressmenu.php:91
+msgid "Icon"
+msgstr "Icono"
+
+#: public/Note_Pressmenu.php:92
+msgid "Title"
+msgstr "Título"
+
+#: public/Note_Pressmenu.php:93
+msgid "By"
+msgstr "Autor"
+
+#: public/Note_Pressmenu.php:94
+msgid "Date"
+msgstr "Fecha"
+
+#: public/Note_Pressmenu.php:189
+msgid "Notes"
+msgstr "Notas"
+
+#: public/Note_Pressmenu.php:220
+msgid "Add A Note"
+msgstr "Poner una Nota"
+
+#: public/Note_Pressmenu.php:241 public/Note_Pressmenu.php:277
+#: public/Note_Pressmenu.php:436
+msgid "That note was not found."
+msgstr "No se ha encontrado esa nota."
+
+#: public/Note_Pressmenu.php:250
+msgid "Edit This Note"
+msgstr "Editar Esta Nota"
+
+#: public/Note_Pressmenu.php:252 public/Note_Pressmenu.php:284
+msgid "Back to List"
+msgstr "Volver a la lista"
+
+#: public/Note_Pressmenu.php:256 public/Note_Pressmenu.php:292
+msgid "Title:"
+msgstr "Título:"
+
+#: public/Note_Pressmenu.php:257
+msgid "Date Added/Last Edited:"
+msgstr "Fecha Alta / Última modificación:"
+
+#: public/Note_Pressmenu.php:258
+msgid "Added By:"
+msgstr "Autor:"
+
+#: public/Note_Pressmenu.php:260 public/Note_Pressmenu.php:373
+msgid "Contents:"
+msgstr "Contenidos:"
+
+#: public/Note_Pressmenu.php:300
+msgid "Enter a title for this note."
+msgstr "Introduzca un título para esta nota."
+
+#: public/Note_Pressmenu.php:304
+msgid "Icon:"
+msgstr "Icono:"
+
+#: public/Note_Pressmenu.php:357
+msgid "Select an icon for this note."
+msgstr "Seleccione un icono para esta nota."
+
+#: public/Note_Pressmenu.php:363 public/Note_Pressmenu.php:368
+msgid "Author/Editor: "
+msgstr "Autor / Editor :"
+
+#: public/Note_Pressmenu.php:392
+msgid "Save"
+msgstr "Guardar"
+
+#: public/Note_Pressmenu.php:399
+msgid "Update Note"
+msgstr "Actualización Nota"
+
+#: public/Note_Pressmenu.php:403
+msgid "Add Note"
+msgstr "Añadir La Nota"
+
+#: public/Note_Pressmenu.php:428 public/Note_Pressmenu.php:460
+msgid "A note must have a title."
+msgstr "Una nota tiene que tener un título."
+
+#: public/Note_Pressmenu.php:500
+msgid "That note was not found"
+msgstr "Esa nota no se ha encontrado"
+
+#: public/Note_Pressmenu.php:507
+msgid "Note Deleted!"
+msgstr "Nota eliminados !"
+
+#: public/Note_Pressmenu.php:557
+msgid " Note Deleted!"
+msgstr " Nota eliminados !"
+
+#: public/Note_Pressmenu.php:562
+msgid " Notes Deleted!"
+msgstr " Nota eliminados !"
+
+#: public/Note_Pressmenu.php:571
+msgid "No notes selected."
+msgstr "No hay notas seleccionadas ."

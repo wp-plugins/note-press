@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-05 23:33-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-Note_Press-admin.php:190
+msgid "Note_Press Settings"
+msgstr ""
+
+#: admin/class-Note_Press-admin.php:191
+msgid "Note_Press"
+msgstr ""
+
+#: admin/class-Note_Press-admin.php:217
+msgid "Settings"
+msgstr ""
+
+#: public/Note_Pressmenu.php:21
+msgid "Note Press"
+msgstr ""
+
+#: public/Note_Pressmenu.php:22
+msgid "For more information and instructions please visit our website at: "
+msgstr ""
+
+#: public/Note_Pressmenu.php:40
+msgid "note"
+msgstr ""
+
+#: public/Note_Pressmenu.php:41
+msgid "notes"
+msgstr ""
+
+#: public/Note_Pressmenu.php:63
+msgid "View"
+msgstr ""
+
+#: public/Note_Pressmenu.php:64
+msgid "Edit"
+msgstr ""
+
+#: public/Note_Pressmenu.php:65
+msgid "Are you sure you want to delete this note?"
+msgstr ""
+
+#: public/Note_Pressmenu.php:65 public/Note_Pressmenu.php:74
+msgid "Delete"
+msgstr ""
+
+#: public/Note_Pressmenu.php:88
+msgid "Icon"
+msgstr ""
+
+#: public/Note_Pressmenu.php:89
+msgid "Title"
+msgstr ""
+
+#: public/Note_Pressmenu.php:90
+msgid "By"
+msgstr ""
+
+#: public/Note_Pressmenu.php:91
+msgid "Date"
+msgstr ""
+
+#: public/Note_Pressmenu.php:186
+msgid "Notes"
+msgstr ""
+
+#: public/Note_Pressmenu.php:217
+msgid "Add A Note"
+msgstr ""
+
+#: public/Note_Pressmenu.php:238 public/Note_Pressmenu.php:274
+#: public/Note_Pressmenu.php:433
+msgid "That note was not found."
+msgstr ""
+
+#: public/Note_Pressmenu.php:247
+msgid "Edit This Note"
+msgstr ""
+
+#: public/Note_Pressmenu.php:249 public/Note_Pressmenu.php:281
+msgid "Back to List"
+msgstr ""
+
+#: public/Note_Pressmenu.php:253 public/Note_Pressmenu.php:289
+msgid "Title:"
+msgstr ""
+
+#: public/Note_Pressmenu.php:254
+msgid "Date Added/Last Edited:"
+msgstr ""
+
+#: public/Note_Pressmenu.php:255
+msgid "Added By:"
+msgstr ""
+
+#: public/Note_Pressmenu.php:257 public/Note_Pressmenu.php:370
+msgid "Contents:"
+msgstr ""
+
+#: public/Note_Pressmenu.php:297
+msgid "Enter a title for this note."
+msgstr ""
+
+#: public/Note_Pressmenu.php:301
+msgid "Icon:"
+msgstr ""
+
+#: public/Note_Pressmenu.php:354
+msgid "Select an icon for this note."
+msgstr ""
+
+#: public/Note_Pressmenu.php:360 public/Note_Pressmenu.php:365
+msgid "Author/Editor: "
+msgstr ""
+
+#: public/Note_Pressmenu.php:389
+msgid "Save"
+msgstr ""
+
+#: public/Note_Pressmenu.php:396
+msgid "Update Note"
+msgstr ""
+
+#: public/Note_Pressmenu.php:400
+msgid "Add Note"
+msgstr ""
+
+#: public/Note_Pressmenu.php:425 public/Note_Pressmenu.php:457
+msgid "A note must have a title."
+msgstr ""
+
+#: public/Note_Pressmenu.php:497
+msgid "That note was not found"
+msgstr ""
+
+#: public/Note_Pressmenu.php:504
+msgid "Note Deleted!"
+msgstr ""
+
+#: public/Note_Pressmenu.php:554
+msgid " Note Deleted!"
+msgstr ""
+
+#: public/Note_Pressmenu.php:559
+msgid " Notes Deleted!"
+msgstr ""
+
+#: public/Note_Pressmenu.php:568
+msgid "No notes selected."
+msgstr ""
